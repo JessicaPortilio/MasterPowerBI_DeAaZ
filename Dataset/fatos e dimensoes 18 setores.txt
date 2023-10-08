@@ -1,0 +1,7 @@
+Fatos
+1 - ftVendas
+2 - ftCompras
+
+Dimensões
+1 - dimSetores
+2 - dimData

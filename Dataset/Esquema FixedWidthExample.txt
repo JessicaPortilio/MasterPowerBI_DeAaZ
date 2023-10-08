@@ -1,0 +1,5 @@
+Como fazer o esquema, abre o arquivo FixedWidthExample
+
+coloca o cursor e olha a linha(ln) e coluna(col) que ele aparece, lembre que no bloco de texto começa em 1, porém no excel ou PowerBi é zero, então diminui sempre um número. Olha o col.
+
+0, 8, 12,24, 37, 64, 69, 83, 94, 115, 128
